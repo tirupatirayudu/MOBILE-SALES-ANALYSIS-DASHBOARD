@@ -40,5 +40,5 @@ The best dashboard explanation format.
 🚀Walk through of key visuals (briefly)
 📝Impact & Insights
 
-6.Screenshot :-
-Hospital Emergency Room Dashboard Power BI Dashboard
+6.Screenshot :-https://github.com/tirupatirayudu/MOBILE-SALES-ANALYSIS-DASHBOARD/blob/main/Mobile%20Sales%20Analysis%20Dashboard.png
+Mobile Sales Analysis Power BI Dashboard
